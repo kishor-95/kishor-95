@@ -77,3 +77,73 @@ I'm a passionate IT professional with:
 ---
 
 📌 *Let's collaborate on open-source, labs, and automation projects!*
+# 👋 Hi there, I'm Kishor Bhairat Ashruba!
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Aspiring+DevOps+Engineer;Linux+%7C+Automation+%7C+Cloud+Learner;Always+Ready+To+Build+And+Automate!)
+
+---
+
+## 🧑‍💻 About Me
+
+- 🧰 Passionate IT Support professional with 1+ year of experience  
+- 🐧 Linux enthusiast (RHCSA in progress)  
+- 🚀 Learning DevOps tools like Docker, Ansible, Terraform, and Kubernetes  
+- ☁️ Exploring AWS & Azure  
+- 🛠️ Interested in automation, cloud, and infrastructure as code  
+- 📈 Always learning and contributing to open-source
+
+---
+
+## 🔧 Tools & Technologies
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-89CFF0?style=flat-square&logo=redhat&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kishor-95&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/kishor-95)
+
+---
+
+## 📊 GitHub Stats
+
+![Kishor's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishor-95&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishor-95&layout=compact&theme=tokyonight)
+
+---
+
+## 📅 Current Time
+
+> 🕒 **India Time:**  
+> ![Time](https://img.shields.io/endpoint?url=https://worldtimeapi.org/api/timezone/Asia/Kolkata)
+
+---
+
+## 💬 Dev Quote of the Day
+
+> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kishor-bhairat">
+    <img src="https://img.shields.io/badge/LinkedIn-Kishor%20Bhairat-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+📌 *Learning never stops. Let’s build, break, and automate together!*
