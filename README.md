@@ -31,7 +31,11 @@ Currently, I'm on a journey to become a **DevOps Engineer**, diving deep into:
 ### 📫 Let's Connect
 
 - 📧 Email: [bhairatkishor@gmail.com](mailto:abc@gamil.com)  
-- 💼 LinkedIn: [linkedin.com/in/kishor-bhairat](https://www.linkedin.com/in/kishor-bhairat)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/kishor-bhairat">
+    <img src="https://img.shields.io/badge/LinkedIn-Kishor%20Bhairat-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
