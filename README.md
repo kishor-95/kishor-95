@@ -1,6 +1,6 @@
 # 👋 Hey Everyone, I'm Kishor Bhairat Ashruba
 
-![DevOps Banner](https://your-image-url.com/banner.png)
+![DevOps Banner]()
 
 ### 🚀 Aspiring DevOps Engineer from Pune, India
 
