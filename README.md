@@ -56,7 +56,13 @@ Currently, I'm on a journey to become a **DevOps Engineer**, diving deep into:
 
 
 ---
+### 🌍 Visitor Count
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kishor-95&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
+
+---
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kishor-95&theme=tokyonight)
