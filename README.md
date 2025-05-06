@@ -1,6 +1,6 @@
 # 👋 Hey Everyone, I'm Kishor Bhairat Ashruba
 
-![DevOps Banner]()
+![DevOps Banner](https://github.com/kishor-95/kishor-95/blob/main/7060483.jpg)
 
 ### 🚀 Aspiring DevOps Engineer from Pune, India
 
@@ -25,7 +25,7 @@ Currently, I'm on a journey to become a **DevOps Engineer**, diving deep into:
 
 ### 📫 Let's Connect
 
-- 📧 Email: [abc@gamil.com](mailto:abc@gamil.com)  
+- 📧 Email: [bhairatkishor@gmail.com](mailto:abc@gamil.com)  
 - 💼 LinkedIn: [linkedin.com/in/kishor-bhairat](https://www.linkedin.com/in/kishor-bhairat)  
 
 ---
@@ -49,7 +49,6 @@ Currently, I'm on a journey to become a **DevOps Engineer**, diving deep into:
 
 ![Kishor's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishor-95&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishor-95&layout=compact&theme=tokyonight)
 
 ---
 
@@ -59,13 +58,6 @@ Currently, I'm on a journey to become a **DevOps Engineer**, diving deep into:
 
 ---
 
-### 💡 About Me & Collaborations
-
-I'm open to:
-
-- 🎤 Guest Sessions / Webinars  
-- 🤝 Project Collaborations  
-- 🧑‍🏫 DevOps Mentorship  
 
 > "Passionate about building and automating the future, one pipeline at a time!"
 
