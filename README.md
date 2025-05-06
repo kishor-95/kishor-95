@@ -4,9 +4,6 @@
 
 ---
 
-
-![DevOps Banner](https://github.com/kishor-95/kishor-95/blob/main/7060483.jpg)
-
 ### 🚀 Aspiring DevOps Engineer from Pune, India
 
 I'm a dedicated IT professional with over a year of experience in:
