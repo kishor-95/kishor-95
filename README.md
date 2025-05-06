@@ -1,4 +1,4 @@
-# 👋 Hey Everyone, I'm Kishor Bhairat Ashruba
+# 👋 Hey Everyone, I'm Kishor Bhairat
 
 ![DevOps Banner](https://github.com/kishor-95/kishor-95/blob/main/7060483.jpg)
 
