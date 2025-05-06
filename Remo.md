@@ -8,4 +8,4 @@
 - 🧰 Includes DB + Volume + Reverse Proxy
 - 🌐 Deployed on local VM with port mapping
 
-![Project Screenshot](https://github.com/kishor-95/nextcloud-local-deployment/tree/main/images)
+![Project Screenshot](https://github.com/kishor-95/nextcloud-local-deployment/blob/main/images/dashboard.png)
