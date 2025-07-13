@@ -11,7 +11,7 @@ I'm a dedicated IT professional with over a year of experience in:
 - 🖥️ Desktop and Technical Support  
 - 🧑‍🔧 Network Troubleshooting and Hardware Diagnostics  
 - 💿 Software Installation & Lab Environment Maintenance  
-- 🐧 Linux System Administration (RHCSA in progress)  
+- 🐧 Linux System Administration (RHCSA)  
 - 📦 Containerization using Podman & Docker  
 - ⚙️ Automation with Bash, Ansible, and more  
 
