@@ -17,11 +17,11 @@ I'm a dedicated IT professional with over a year of experience in:
 
 Currently, I'm on a journey to become a **DevOps Engineer**, diving deep into:
 
-- ☁️ Cloud Platforms: AWS, Azure  
-- 🛠️ Infrastructure as Code: Terraform, Bicep  
-- 🐳 Container Orchestration: Docker, Kubernetes  
-- 🔐 Monitoring Tools: Grafana, Prometheus, Nagios  
-- 🧪 CI/CD Pipelines: GitHub Actions, Jenkins, Azure DevOps  
+- ☁️ Cloud Platforms: AWS, GCP
+- 🛠️ Infrastructure as Code: Terraform, Ansible
+- 🐳 Container Orchestration: Docker, Kubernetes, OpenShift   
+- 🔐 Monitoring Tools: Grafana, Prometheus,
+- 🧪 CI/CD Pipelines: GitHub Actions, Jenkins, AWS DevOps, GCP  
 
 ---
 
@@ -45,7 +45,6 @@ Currently, I'm on a journey to become a **DevOps Engineer**, diving deep into:
 ![Podman](https://img.shields.io/badge/Podman-89CFF0?logo=podman&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
 
