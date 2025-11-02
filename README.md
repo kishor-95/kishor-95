@@ -24,10 +24,6 @@ Currently, I'm on a journey to become a **DevOps Engineer**, diving deep into:
 - 🧪 CI/CD Pipelines: GitHub Actions, Jenkins, AWS DevOps, GCP  
 
 ---
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishor-95" alt="kishor-95" /></a> </p>
-
----
 ### 📫 Let's Connect
 
 - 📧 Email: [bhairatkishor@gmail.com](mailto:abc@gamil.com)  
