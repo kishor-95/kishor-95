@@ -22,11 +22,14 @@ Currently, I'm on a journey to become a **DevOps Engineer**, diving deep into:
 - 🐳 Container Orchestration: Docker, Kubernetes, OpenShift   
 - 🔐 Monitoring Tools: Grafana, Prometheus,
 - 🧪 CI/CD Pipelines: GitHub Actions, Jenkins, AWS DevOps, GCP  
-
+- 👯 I’m looking to collaborate on **Open Source**
+- 👨‍💻 All of my projects are available at [https://github.com/kishor-95](https://github.com/kishor-95)
+- 💬 Ask me about **Devops and Cloud**
+- 📫 How to reach me **bhairatkishor02@gmail.com**
 ---
 ### 📫 Let's Connect
 
-- 📧 Email: [bhairatkishor@gmail.com](mailto:abc@gamil.com)  
+- 📧 Email: [bhairatkishor@gmail.com](bhairatkishor02@gmail.com)
 <p align="center">
   <a href="https://www.linkedin.com/in/kishor-bhairat">
     <img src="https://img.shields.io/badge/LinkedIn-Kishor%20Bhairat-blue?logo=linkedin&style=for-the-badge" />
