@@ -35,7 +35,6 @@ Currently, I'm on a journey to become a **DevOps Engineer**, diving deep into:
     <img src="https://img.shields.io/badge/LinkedIn-Kishor%20Bhairat-blue?logo=linkedin&style=for-the-badge" />
   </a>
 </p> -->
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mr.kishor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mr.kishor" height="30" width="40" /></a>
 <a href="https://twitter.com/kishor-95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kishor-95" height="30" width="40" /></a>
