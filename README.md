@@ -38,7 +38,7 @@ Currently, I'm on a journey to become a **DevOps Engineer**, diving deep into:
 <p align="left">
 <a href="https://dev.to/mr.kishor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mr.kishor" height="30" width="40" /></a>
 <a href="https://twitter.com/kishor-95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kishor-95" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kishorbhairat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishorbhairat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kishor-bhairat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishor-bhairat" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@indiabgmi572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@indiabgmi572" height="30" width="40" /></a>
 </p>
 ---
