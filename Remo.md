@@ -1,11 +1,3 @@
-## 🚀 Featured Projects
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishor-95&label=Profile%20views&color=0e75b6&style=flat" alt="kishor-95" /> </p>
 
-### 📁 [Nextcloud DevOps Deployment](https://github.com/kishor-95/nextcloud-local-deployment)
-> Full deployment using Docker, NGINX, Let's Encrypt SSL, MariaDB, and persistent volumes.
-
-- 🐳 Dockerized Services with custom `Dockerfile`
-- 🔒 SSL Certificates via Let's Encrypt
-- 🧰 Includes DB + Volume + Reverse Proxy
-- 🌐 Deployed on local VM with port mapping
-
-![Project Screenshot](https://github.com/kishor-95/nextcloud-local-deployment/blob/main/images/dashboard.png)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishor-95" alt="kishor-95" /></a> </p>
