@@ -21,7 +21,7 @@ Currently, I'm on a journey to become a **DevOps Engineer**, diving deep into:
 - 🛠️ Infrastructure as Code: Terraform, Ansible
 - 🐳 Container Orchestration: Docker, Kubernetes, OpenShift   
 - 🔐 Monitoring Tools: Grafana, Prometheus,
-- 🧪 CI/CD Pipelines: GitHub Actions, Jenkins, AWS DevOps, GCP  
+- 🧪 CI/CD Pipelines: GitHub Actions, Jenkins, AWS DevOps
 - 👯 I’m looking to collaborate on **Open Source**
 - 👨‍💻 All of my projects are available at [https://github.com/kishor-95](https://github.com/kishor-95)
 - 💬 Ask me about **Devops and Cloud**
