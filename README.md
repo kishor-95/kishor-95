@@ -56,23 +56,11 @@ Currently, I'm on a journey to become a **DevOps Engineer**, diving deep into:
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
 
 ---
-
-### 📈 GitHub Stats
-
-![Kishor's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishor-95&show_icons=true&theme=tokyonight)
-
-
----
 ### 🌍 Visitor Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kishor-95&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
-
----
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kishor-95&theme=tokyonight)
 
 ---
 
