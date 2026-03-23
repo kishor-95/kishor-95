@@ -54,7 +54,7 @@ I build, deploy, and operate production-grade infrastructure — not just labs.
 ## 📌 Featured Projects
 
 ### 🗳️ [Three-Tier Voting Application — DevOps Deployment](https://github.com/kishor-95/three-tier-voting-app)
-> React + Node.js + MySQL | Docker | Kubernetes on AWS EC2 | Jenkins | SonarQube | Trivy | Argo CD
+> React + Node.js + MySQL | Docker | Kubernetes | AWS | Jenkins | SonarQube | Trivy | Argo CD
 
 - Full CI/CD pipeline: code quality (SonarQube) + container security scanning (Trivy) + GitOps deployment (Argo CD)
 - Kubernetes cluster on AWS EC2 — deployments, services, networking
