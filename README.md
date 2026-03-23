@@ -19,7 +19,7 @@ I build, deploy, and operate production-grade infrastructure — not just labs.
 - 📊 **Monitoring** — Prometheus, Grafana, CloudWatch, log analysis
 
 📫 **Reach me:** bhairatkishor@gmail.com
-🔗 **LinkedIn:** [kishor-bhairat](https://www.linkedin.com/in/kishor-bhairat)
+🔗 **LinkedIn:** [Kishor Bhairat](https://www.linkedin.com/in/kishor-bhairat)
 
 ---
 
