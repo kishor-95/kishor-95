@@ -74,7 +74,7 @@ I build, deploy, and operate production-grade infrastructure — not just labs.
 ## 📜 Certifications
 
 - 🏅 DevOps Certification — New Wings Solutions, Pune
-
+- 🏅 RHCSA — Red Hat Certified System Administrator *(In Progress)*
 ---
 
 ## 📊 GitHub Stats
