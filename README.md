@@ -58,7 +58,7 @@ I build, deploy, and operate production-grade infrastructure — not just labs.
 
 - Full CI/CD pipeline: code quality (SonarQube) + container security scanning (Trivy) + GitOps deployment (Argo CD)
 - Kubernetes cluster on AWS EC2 — deployments, services, networking
-- Containerized and validated full stack locally with Docker Compose
+- Containerized and validated full stack locally with Docker Compose.
 
 ---
 
